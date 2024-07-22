@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Natural de Mato Grosso do Sul e estudante de Engenharia de Software, apaixonado pelo mundo da programação. Tenho afinidade com Python, mas meu foco principal é <strong>desenvolver aplicativos mobile utilizando React Native e JavaScript ou até TypeScript.</strong>
+ Natural de Mato Grosso do Sul e estudante de Engenharia de Software, apaixonado pelo mundo da programação. Tenho afinidade com Python, mas meu foco principal é <strong>desenvolver aplicativos mobile utilizando React Native e TypeScript.</strong>
 </p>
 
 <p align="left">
